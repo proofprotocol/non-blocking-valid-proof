@@ -1,8 +1,8 @@
 # PP-SPEC-032: The Non-Blocking Requirement and the Valid-Proof Conditions
 
-- Status: DRAFT (for review; not yet published)
+- Status: Published (embargoed until 2026-10-31)
 - License: CC BY-ND 4.0
-- DOI: [assign on publication via Zenodo]
+- DOI: 10.5281/zenodo.22939795
 - Supersedes: none
 - Builds on: PP-SPEC-023 (Structural Independence and the Fidelity-at-Capture Requirement), PP-SPEC-024 (The Self-Attestation Oxymoron), PP-SPEC-027 (Proven Efficacy and the Third Axis)
 - Date: 2026-09-24 (authored; public release deferred until after the PoC comment period closes 2026-10-30)
