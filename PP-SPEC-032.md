@@ -1,7 +1,7 @@
 # PP-SPEC-032: The Non-Blocking Requirement and the Valid-Proof Conditions
 
 - Status: Published (embargoed until 2026-10-31)
-- License: CC BY-ND 4.0
+- License: Apache License 2.0
 - DOI: 10.5281/zenodo.22939795
 - Supersedes: none
 - Builds on: PP-SPEC-023 (Structural Independence and the Fidelity-at-Capture Requirement), PP-SPEC-024 (The Self-Attestation Oxymoron), PP-SPEC-027 (Proven Efficacy and the Third Axis)
@@ -100,4 +100,4 @@ These are matters of implementation and are addressed separately. Their omission
 
 ## License
 
-This work is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License (CC BY-ND 4.0). You may copy and redistribute this document in any medium or format for any purpose, provided you give appropriate credit and do not distribute modified material.
+This work is licensed under the Apache License 2.0 License (Apache License 2.0). You may copy and redistribute this document in any medium or format for any purpose, provided you give appropriate credit and do not distribute modified material.

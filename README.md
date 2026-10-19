@@ -1,6 +1,6 @@
 # PP-SPEC-032: The Non-Blocking Requirement and the Valid-Proof Conditions
 
-Status: Published (embargoed until 2026-10-31). License: CC BY-ND 4.0. DOI: 10.5281/zenodo.22939795
+Status: Published (embargoed until 2026-10-31). License: Apache License 2.0. DOI: 10.5281/zenodo.22939795
 
 Doctrine spec. Two requirements for a valid proof of efficacy: non-blocking on
 the tested party's production, and a verdict that satisfies the valid-proof
