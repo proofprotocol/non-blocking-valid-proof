@@ -6,8 +6,8 @@ Craig Thomas Ellrod is the original inventor and author of the Proof Protocol (O
 
 ## License
 
-Licensed under the Proof Protocol License 1.0 (LICENSE.md). Specifications are Apache-2.0 (LICENSE-APACHE-2.0.md). Software is proprietary to Nebulonium, Inc.
+Licensed under the Proof Protocol License 1.0 (LICENSE.md). Specifications are Apache-2.0 (LICENSE-APACHE-2.0.md). Software is proprietary to Craig Thomas Ellrod.
 
 All prior versions of the specifications in this repository, including every earlier commit, release and archive, are licensed under the Apache License, Version 2.0, effective as of their original publication date. Licensor no longer offers them under any prior license.
 
-Copyright (c) 2026 Nebulonium, Inc.
+Copyright (c) 2026 Craig Thomas Ellrod.
